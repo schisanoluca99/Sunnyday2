@@ -53,9 +53,9 @@ python sunnyday2.py
 ## Collaboration
 I sincerely thank @Ardit Sulce for the teachings.
 
-[<img src='https://simpleicons.org/icons/linkedin.svg' width='25'>](https://www.linkedin.com/in/schisanoluca) 
-[<img src='https://simpleicons.org/icons/instagram.svg' width='25'>](https://www.instagram.com/schisanoluca/)
-[<img src='https://simpleicons.org/icons/github.svg' width='25'>](https://github.com/schisanoluca99)
+[<img src='https://simpleicons.org/icons/linkedin.svg' width='55'>](https://www.linkedin.com/in/schisanoluca) 
+[<img src='https://simpleicons.org/icons/instagram.svg' width='55'>](https://www.instagram.com/schisanoluca/)
+[<img src='https://simpleicons.org/icons/github.svg' width='55'>](https://github.com/schisanoluca99)
 
 ## Note
 > [!NOTE]  
